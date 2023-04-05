@@ -282,7 +282,7 @@ class Home extends React.Component {
               <div className="member-text">
                 <div
                   className="member-img set-bg"
-                  data-setbg="img/member/1.jpg"
+                  data-setbg="./img/member/1.jpg"
                 ></div>
                 <h2>Tom Binegar</h2>
                 <span>Business Development</span>
